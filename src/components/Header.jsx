@@ -24,6 +24,7 @@ const Header = () => {
           <a href="#home" className="nav-link">Home</a>
           <a href="#services" className="nav-link">Services</a>
           <a href="#about" className="nav-link">About Us</a>
+          <a href="#gallery" className="nav-link">Gallery</a>
           <a href="#contact" className="nav-link">Contact</a>
           <a href="#contact" className="btn btn-primary" style={{ padding: '8px 20px', marginLeft: '10px' }}>
             Book Test
